@@ -11,3 +11,8 @@ BEGIN
                END;
     RETURN @Age;
 END;
+
+
+-- Usage
+
+SELECT dbo.CalculateAge('1990-08-08') AS Age;
