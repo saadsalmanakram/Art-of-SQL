@@ -1,0 +1,1 @@
+Filters records that meet specific criteria.
