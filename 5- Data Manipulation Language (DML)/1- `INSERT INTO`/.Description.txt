@@ -1,0 +1,1 @@
+To insert new records into a table.
