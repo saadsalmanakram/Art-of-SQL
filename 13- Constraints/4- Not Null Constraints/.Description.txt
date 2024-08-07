@@ -1,0 +1,1 @@
+Ensures that a column cannot have a NULL value.
