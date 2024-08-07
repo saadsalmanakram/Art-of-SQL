@@ -1,0 +1,3 @@
+BEGIN TRANSACTION;
+-- SQL operations
+COMMIT;
