@@ -1,0 +1,1 @@
+Defining data types and assigning default values to columns.
