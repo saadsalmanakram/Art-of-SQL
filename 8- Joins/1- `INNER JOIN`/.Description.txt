@@ -1,0 +1,1 @@
+Returns only the rows where there is a match in both tables.
