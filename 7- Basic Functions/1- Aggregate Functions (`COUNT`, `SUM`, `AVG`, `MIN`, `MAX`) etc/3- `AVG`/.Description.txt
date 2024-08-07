@@ -1,0 +1,1 @@
+Returns the average value of a numeric column.
