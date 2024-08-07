@@ -1,0 +1,1 @@
+The RAISEERROR function generates an error message manually, allowing custom error handling and control flow.
