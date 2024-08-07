@@ -1,0 +1,1 @@
+In some database management systems like MySQL, you can select and check the current database in use using the SELECT DATABASE() function.
