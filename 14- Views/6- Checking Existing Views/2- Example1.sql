@@ -1,0 +1,1 @@
+SHOW FULL TABLES IN my_database WHERE TABLE_TYPE = 'VIEW';
