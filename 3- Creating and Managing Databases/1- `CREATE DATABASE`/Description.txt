@@ -1,0 +1,1 @@
+The CREATE DATABASE statement is used to create a new database.
