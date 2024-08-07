@@ -1,0 +1,1 @@
+You can use GROUP BY with multiple columns to group the data by more than one column.
