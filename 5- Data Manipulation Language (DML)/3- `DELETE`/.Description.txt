@@ -1,0 +1,1 @@
+To remove existing records from a table.
