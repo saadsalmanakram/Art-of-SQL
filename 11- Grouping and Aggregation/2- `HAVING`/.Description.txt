@@ -1,0 +1,1 @@
+The HAVING clause is used to filter groups based on a condition. It works similarly to the WHERE clause but is used with the GROUP BY clause to filter aggregated results.
