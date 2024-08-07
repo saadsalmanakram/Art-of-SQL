@@ -1,0 +1,1 @@
+Permanently saves all changes made during the transaction. After a COMMIT, the changes are visible to other transactions.
