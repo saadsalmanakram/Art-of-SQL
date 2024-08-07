@@ -1,0 +1,1 @@
+The BACKUP DATABASE statement is used to create a backup of a database, which can be restored later.
