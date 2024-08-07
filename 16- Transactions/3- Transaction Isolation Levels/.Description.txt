@@ -1,0 +1,1 @@
+Control the visibility of changes made by one transaction to other concurrent transactions. Different isolation levels define the degree to which transactions are isolated from each other.
