@@ -1,0 +1,1 @@
+LOCK TABLE Employees IN WRITE MODE;
