@@ -1,1 +1,1 @@
-Returns the length of a string.
+Converts a string to lowercase.
