@@ -1,0 +1,1 @@
+TRY_CAST works like CAST but returns NULL if the cast fails, making it safer for handling potential errors during type conversion.
