@@ -1,0 +1,1 @@
+Rewrite complex subqueries using JOINs or use CTEs (Common Table Expressions).
