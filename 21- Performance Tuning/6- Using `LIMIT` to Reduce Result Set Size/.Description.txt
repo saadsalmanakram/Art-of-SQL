@@ -1,0 +1,1 @@
+To limit the number of rows returned by a query, reducing the processing and transfer time.
