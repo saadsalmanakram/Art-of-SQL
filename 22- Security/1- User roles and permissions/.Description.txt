@@ -1,0 +1,1 @@
+Define roles within a database to group permissions together, simplifying the management of user privileges.
