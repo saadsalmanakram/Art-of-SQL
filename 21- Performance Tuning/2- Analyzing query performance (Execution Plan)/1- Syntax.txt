@@ -1,0 +1,1 @@
+Execution plans are generated using commands like EXPLAIN or EXPLAIN ANALYZE.
